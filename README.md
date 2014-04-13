@@ -19,5 +19,5 @@ Current Role:
 
 Store Launch / Device Wall PR links: 
 
-* [Twin Cities (Includes Device Wall demo)](http://www.twincities.com/business/ci_24555287/verizons-new-mall-america-megastore-offers-technology-lifestyle)
+* [Twin Cities: Verizon's new Mall of America megastore offers technology as lifestyle (Includes Device Wall demo)](http://www.twincities.com/business/ci_24555287/verizons-new-mall-america-megastore-offers-technology-lifestyle)
 * [Minnov8: Verizon Wireless Launches ‘Destination Store’] (http://minnov8.com/2013/11/19/verizon-wireless-launches-destination-store/)
